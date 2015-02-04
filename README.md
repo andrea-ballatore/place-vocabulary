@@ -1,8 +1,9 @@
 Place Vocabulary
 =============================================
 
-This repository contains a vocabulary of nouns used to describe places, such as `river', `mountain', and `park'.
+This repository contains a vocabulary of nouns used to describe places, such as `river`, `mountain`, and `park`.
 The vocabulary is the result of a merge between the GeoNames Ontology, the DBpedia Ontology, and Wordnet.
+Each term is linked to the URIs in the data sources.
 
 Research areas:
 * Geographic information systems
