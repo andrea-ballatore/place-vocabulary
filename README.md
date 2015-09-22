@@ -1,8 +1,8 @@
 Place Vocabulary
 =============================================
 
-This repository contains a vocabulary of *nouns* used to describe places, such as `river`, `restaurant`, `mountain`, and `park`.
-The vocabulary is the result of a merge between the GeoNames Ontology, the DBpedia Ontology, and Wordnet, and includes both natural and man-made *place types*.
+This repository contains a vocabulary of **nouns** used to describe **places**, such as `river`, `restaurant`, `mountain`, and `park`.
+The vocabulary is the result of a merge between the GeoNames Ontology, the DBpedia Ontology, and Wordnet, and includes both natural and man-made **place types**.
 Each term is linked to the URIs in the data sources.
 
 Details:
