@@ -26,3 +26,5 @@ Author & Maintainer
 Andrea Ballatore <http://sites.google.com/site/andreaballatore>
 
 e-mail: `andrea [dot] ballatore [at] gmail [dot] com`
+
+Last update: Sep 2015
