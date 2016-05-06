@@ -16,6 +16,11 @@ Research areas:
 * Geo-semantics
 * Linked data
 
+Reference
+----------------------
+A. Ballatore & B. Adams (2015) *Extracting Place Emotions from Travel Blogs*, 
+AGILE Conference on Geographic Information Science, Lisbon, June 2015, pp. 1–5. [PDF](https://sites.google.com/site/andreaballatore/2015-Ballatore_Adams-Emotion_travel_blogs.pdf)
+
 License
 ----------------------
 This work is licensed under a Creative Commons Attribution 4.0 International License.
