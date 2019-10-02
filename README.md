@@ -7,7 +7,7 @@ Each term is linked to the URIs in the data sources.
 
 Details:
 * Current version: 0.2
-* Format: JSON
+* Formats: JSON, CSV, XLSX
 * Content: 1,876 nouns
 
 Research areas:
@@ -18,7 +18,7 @@ Research areas:
 
 Reference
 ----------------------
-A. Ballatore & B. Adams (2015) *Extracting Place Emotions from Travel Blogs*, 
+A. Ballatore & B. Adams (2015) *Extracting Place Emotions from Travel Blogs*,
 AGILE Conference on Geographic Information Science, Lisbon, June 2015, pp. 1–5. [PDF](https://sites.google.com/site/andreaballatore/2015-Ballatore_Adams-Emotion_travel_blogs.pdf)
 
 License
@@ -28,8 +28,8 @@ Open Knowledge: <http://opendefinition.org>
 
 Author & Maintainer
 ----------------------
-Andrea Ballatore <http://sites.google.com/site/andreaballatore>
+Dr Andrea Ballatore <http://aballatore.space>
 
 e-mail: `andrea [dot] ballatore [at] gmail [dot] com`
 
-Last update: Sep 2015
+Last update: Oct 2019
