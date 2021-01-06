@@ -19,7 +19,7 @@ Research areas:
 Reference
 ----------------------
 A. Ballatore & B. Adams (2015) *Extracting Place Emotions from Travel Blogs*,
-AGILE Conference on Geographic Information Science, Lisbon, June 2015, pp. 1–5. [PDF](https://sites.google.com/site/andreaballatore/2015-Ballatore_Adams-Emotion_travel_blogs.pdf)
+AGILE Conference on Geographic Information Science, Lisbon, June 2015, pp. 1–5. [PDF](https://agile-online.org/conference_paper/cds/agile_2015/shortpapers/97/97_Paper_in_PDF.pdf)
 
 License
 ----------------------
@@ -29,7 +29,5 @@ Open Knowledge: <http://opendefinition.org>
 Author & Maintainer
 ----------------------
 Dr Andrea Ballatore <http://aballatore.space>
-
-e-mail: `andrea [dot] ballatore [at] gmail [dot] com`
 
 Last update: Oct 2019
